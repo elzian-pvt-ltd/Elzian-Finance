@@ -377,7 +377,7 @@ https://templatemo.com/tm-538-digital-trend
   .project-info {
     background: var(--white-color);
     border-radius: var(--border-radius-small);
-    position: absolute;
+    position: relative;
     bottom: 32px;
     right: 32px;
     left: 32px;
